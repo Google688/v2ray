@@ -2179,9 +2179,9 @@ while :; do
 	echo
 	echo "搭建教程: https://233yes.com/post/2/"
 	echo
-	echo " 1. 安装"
+	echo " 1. 安装好后"
 	echo
-	echo " 2. 卸载"
+	echo " 2. 卸载流量"
 	echo
 	if [[ $local_install ]]; then
 		echo -e "$yellow 温馨提示.. 本地安装已启用 ..$none"
